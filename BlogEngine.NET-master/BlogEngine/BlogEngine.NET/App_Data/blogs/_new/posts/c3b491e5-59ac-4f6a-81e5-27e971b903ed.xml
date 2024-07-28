@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Shivani</author>
+  <title>Blog Website</title>
+  <description>Simple Blog website</description>
+  <content>Blog</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>27/7/2024</pubDate>
+  <lastModified>27/7/2024</lastModified>
+  <raters>5</raters>
+  <rating>4.24</rating>
+  <slug>[Slug]</slug>
+  <tags>
+    <tag>blog</tag>
+    <tag>welcome</tag>
+  </tags>
+  <comments />
+  <categories>
+    <category>1</category>
+  </categories>
+  <notifications />
+</post>
