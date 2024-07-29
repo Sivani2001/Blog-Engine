@@ -1,6 +1,6 @@
 <br>
 <p>
-    <strong>BlogEngine</strong> is an open source blogging platform since 2007.<br>Easily customizable. Many free built-in Themes, Widgets, and Plugins.
+    <strong>BlogEngine</strong> is an open source blogging platform.<br>Easily customizable. Many free built-in Themes, Widgets, and Plugins.
 </p>
 <br>
 
@@ -51,7 +51,3 @@ Steps:
 After install, update `machineKey` in `Web.config` with values generated with tool [like this](https://www.allkeysgenerator.com/Random/ASP-Net-MachineKey-Generator.aspx). This will prevent known exploit (reported Sep 2019). This only effects if you use default `admin` account.
 <br><br>
 
-## Copyright and License
-
-Code released under the MS-RL License. Docs released under Creative Commons.<br>
-Copyright 2007–2023 BlogEngine
